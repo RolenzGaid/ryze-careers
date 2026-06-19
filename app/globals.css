@@ -62,6 +62,9 @@ a { color: var(--accent); }
   letter-spacing: -0.02em;
   color: #fff;
 }
+.brand-mark img {
+  width: 150px;
+}
 .brand-mark .dot { color: var(--accent); }
 .brand-tag {
   font-size: 11px;
