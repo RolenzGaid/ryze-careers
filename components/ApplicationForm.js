@@ -172,7 +172,7 @@ function Rail({ step, maxReached, onJump }) {
     <aside className="rail">
       <div className="brand">
         <span className="brand-mark">
-          Ryze<span className="dot">.</span>
+          <img src="https://ryzeagency.com/wp-content/uploads/2024/05/ryze-logo-300px.png" alt="Ryze Logo">
         </span>
         <span className="brand-tag">Careers</span>
       </div>
