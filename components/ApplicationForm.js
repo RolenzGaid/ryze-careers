@@ -177,7 +177,6 @@ function Rail({ step, maxReached, onJump }) {
             alt="Ryze Logo"
           />
         </span>
-        <span className="brand-tag">Careers</span>
       </div>
 
       <div className="rail-head">
